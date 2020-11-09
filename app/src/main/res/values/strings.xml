@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="btn1">Ir a paguina 2</string>
+    <string name="btn2"> Ir a paguina 1</string>
+    <string name="ira2">ir a paguina 2</string>
+    <string name="ira1">ir a Paguina 1</string>
+</resources>
